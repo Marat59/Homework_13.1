@@ -1,7 +1,7 @@
 class Category:
     name: str
     description: str
-    goods: str
+    goods: list
 
     count_category = 0
     count_unique_products = 0
